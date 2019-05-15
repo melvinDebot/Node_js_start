@@ -1,0 +1,29 @@
+{
+  "name": "node_js_start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvinDebot/Node_js_start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvinDebot/Node_js_start/issues"
+  },
+  "homepage": "https://github.com/melvinDebot/Node_js_start#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
